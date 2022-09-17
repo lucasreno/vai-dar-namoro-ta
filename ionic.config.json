@@ -1,0 +1,7 @@
+{
+  "name": "vai-dar-namoro-ta",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
